@@ -144,6 +144,13 @@
         </configuration>
       </plugin>
     </plugins>
-
   </build>
+
+
+  <distributionManagement>
+    <site>
+      <id>devonline.academy</id>
+      <url>scp://devonline.academy/javamm/maven-docs</url>
+    </site>
+  </distributionManagement>
 </project>
