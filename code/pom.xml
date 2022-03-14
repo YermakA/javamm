@@ -11,6 +11,10 @@
 
     <artifactId>code</artifactId>
 
+    <name>Javamm code</name>
+    <description>Code base module for javamm programming language</description>
+
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
